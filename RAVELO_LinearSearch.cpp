@@ -34,9 +34,9 @@ int main() {
     printf("\n");
 
     if (j == 1) {
-        main(); // Recursive call to main if user wants to continue
+        main();
     }
 
-    return 0; // Return 0 to indicate successful program execution
+    return 0; 
 }
 

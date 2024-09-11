@@ -1,0 +1,37 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(){
+	int choice, num;
+	//nd *list = NULL;
+	
+	do
+	{
+	printf("Choose an operation:\n");
+	printf("1 - Add an element \n");
+	printf("2 - Delete an element \n");
+	printf("3 - Display an element \n");
+	printf("4 - Exit\n");
+	printf("Enter your choice(1-4): ");
+	scanf("%i", &choice);
+	if (choice == 1){
+		printf("Enter item to be inserted: ");
+		scanf("%d", &num);
+		//function here
+	} 
+	else if (choice == 2){
+		printf("Enter item to be deleted: ");
+		scanf("%d", &num);
+		//function here
+	}
+	else if (choice == 3){
+		printf("Test");
+		//function here
+	}
+	} while (choice != 4);
+}
+	
+	
+	
+	

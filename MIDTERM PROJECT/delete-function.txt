@@ -1,0 +1,34 @@
+Explanation of changes:
+
+This is a C program to implement a dynamic array with add, delete, and display operations. It uses the following functions:
+
+It declares an array of integers with a maximum size of 100 elements.
+It initializes the size of the array to 0.
+It enters a loop where it prompts the user to enter a choice (1 to add an element, 2 to delete an element, 3 to display the elements, or 4 to exit).
+Depending on the user's choice, it calls the appropriate function.
+If the user chooses to exit, the program terminates.
+Here is a more detailed explanation of each function:
+
+add_element()
+This function first checks if the array is full. If it is, it prints a message to the user and returns. Otherwise, it prompts the user to enter a number to add to the array. It then adds the number to the array at the current index and increments the size of the array.
+
+
+
+
+
+This function asks the user to input the specific number they want to delete (int numToDelete).
+
+It introduces a found flag to keep track of whether the number to delete was found in the array. Initially, found is set to 0 (indicating "not found").
+
+It then iterates through the array to find the index of the numToDelete using a for loop.
+
+When it finds a match, it shifts the elements to the left to overwrite the found number, effectively deleting it from the array. The found flag is set to 1 (indicating "found").
+
+If the number is not found (found remains 0), it displays a message indicating that the number was not found in the array.
+
+With these modifications, the deleteNumber function will delete the specific number entered by the user rather than requiring an index.
+
+
+
+
+

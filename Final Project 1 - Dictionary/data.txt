@@ -1,0 +1,15 @@
+--------------------
+Choice of user: 1
+Word: Zebra
+Meaning: Animal
+Choice of user: 1
+Word: Joshua
+Meaning: Baby Jesus
+Choice of user: 1
+Word: Apple
+Meaning: Fruit
+Choice of user: 4
+Choice of user: 3
+Delete: JOSHUA
+Choice of user: 4
+Choice of user: 5

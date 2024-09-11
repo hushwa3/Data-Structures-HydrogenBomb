@@ -1,0 +1,20 @@
+Explanation:
+
+void displayNumbers(int numbers[], int size): This function takes an array of numbers (numbers) and the size of the array (size) as input.
+
+if (size > 0) { ... }: This conditional check ensures that there are elements in the array before attempting to display them. If the array is empty (size is zero), it displays a message indicating that there is nothing to display.
+
+Sorting the numbers using a Bubble Sort algorithm:
+
+The nested for loops are used to implement the Bubble Sort algorithm to sort the numbers in ascending order.
+The outer loop (for (int i = 0; i < size - 1; i++)) controls the number of passes required to sort the array. In each pass, the largest element bubbles up to the end of the array.
+The inner loop (for (int j = 0; j < size - i - 1; j++)) iterates through the unsorted portion of the array.
+
+The if (numbers[j] > numbers[j + 1]) condition checks if the current element is greater than the next element. If it is, a swap operation is performed to move the larger element to the right.
+The swapping is done using a temporary variable int temp to store the value of numbers[j] while swapping.
+After the sorting is complete, the code proceeds to display the sorted numbers:
+
+It starts with a printf statement to print "Numbers in ascending order:" as a header.
+A for loop is used to iterate through the sorted array and print each number using printf("%d ", numbers[i]).
+Finally, a newline character printf("\n") is used to separate the numbers from the menu.
+If the array is empty (size is zero), it will execute the else block and display "Array is empty. Nothing to display."

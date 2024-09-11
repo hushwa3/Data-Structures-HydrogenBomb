@@ -1,0 +1,94 @@
+Sequential Search Notes:
+
+#include <stdio.h>
+
+int sequential_search(int array[], int n, int search) {
+  int i;
+
+  // Sequential search for the integer
+  for (i = 0; i < n; i++) {
+    if (array[i] == search) {
+      return i;
+    }
+  }
+
+  // The integer was not found
+  return -1;
+}
+
+int main() {
+  int array[10];
+  int i, n, search, index;
+
+  // Get the 10 integers from the user
+  for (i = 0; i < 10; i++) {
+    printf("Enter integer %d: ", i + 1);
+    scanf("%d", &array[i]);
+  }
+
+  // Get the integer to search for
+  printf("Enter the integer to search for: ");
+  scanf("%d", &search);
+
+  // Find the index of the integer using sequential search
+  index = sequential_search(array, 10, search);
+
+  // Print the index of the integer
+  if (index == -1) {
+    printf("The integer %d was not found in the array.\n", search);
+  } else {
+    printf("The integer %d was found at index %d.\n", search, index);
+  }
+
+  // Ask the user if they want to run the program again
+  printf("Do you want to run the program again? (1 for yes, 0 for no): ");
+  scanf("%d", &n);
+
+  // Return the user's choice
+  return n;
+}
+
+
+
+/////2
+
+#include <stdio.h>
+
+int SequentialSearch(int arr[], int n, int search) {
+    for (int i = 0; i < n; i++) {
+        if (arr[i] == search) {
+            return i;
+        }
+    }
+    return -1;
+}
+
+int main() {
+    int arr[10];
+    int i, n, search, index;
+
+    for (i = 0; i < 10; i++) {
+        printf("Enter integers #%d: ", i + 1);
+        scanf("%d", &arr[i]);
+    }
+
+    printf("Enter the integer to search for: ");
+    scanf("%d", &search);
+
+    index = SequentialSearch(arr, 10, search);
+
+    if (index == -1) {
+        printf("The integer %d was not found in the array.\n", search);
+    } else {
+        printf("The integer %d was found at index %d.\n", search, index);
+    }
+
+    printf("Do you want to continue? (1 = Yes, 0 = NO): ");
+    scanf("%d", &n);
+
+    if (n == 1) {
+        main(); // Recursive call to main if user wants to continue
+    }
+
+    return 0; // Return 0 to indicate successful program execution
+}

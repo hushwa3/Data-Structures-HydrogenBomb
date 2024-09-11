@@ -1,0 +1,2540 @@
+{
+    "timeline": {
+        "title": "MainTimeline",
+        "type": "MainTimeline",
+        "status": 0,
+        "subitems": [
+            {
+                "title": "Video Track",
+                "type": "MainVideoTrack",
+                "status": 0,
+                "subitems": [
+                    {
+                        "title": "2023-11-01 20-30-24",
+                        "type": "MediaFileBlock",
+                        "background": 4242542591,
+                        "foreground": 1216461823,
+                        "status": 0,
+                        "uuid": "{7347F562-75EB-4126-9B54-E353C20D4FB9}",
+                        "tstart": 0.0,
+                        "tduration": 300617.037037037,
+                        "restype": "MediaFileResource",
+                        "resid": "E7B8A0651C74D779140A4508FCFD261F",
+                        "attribute": {
+                            "version": 0,
+                            "type": 3,
+                            "videoIndex": 0,
+                            "audioIndex": 1,
+                            "videoEnabled": true,
+                            "audioEnabled": true,
+                            "VideoAttribute": {
+                                "version": 0,
+                                "streamIndex": 0,
+                                "trackDuration": 405.833,
+                                "deinterlace": false,
+                                "baseInfoInited": true,
+                                "LensCorrection": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "valid": false,
+                                    "focalPosX": 0.5,
+                                    "focalPosY": 0.5,
+                                    "hDeg": 118.2,
+                                    "vDeg": 69.5,
+                                    "dDeg": 133.6,
+                                    "k2": 0.022,
+                                    "cameraID": "custom",
+                                    "fovID": "custom"
+                                },
+                                "VideoCropper": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 405.833,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 405.833,
+                                        "blockDuration": 300.61703703703707
+                                    },
+                                    "rectData": {
+                                        "version": 0,
+                                        "srcWidth": 1920,
+                                        "srcHeight": 1080,
+                                        "targetWidth": 1920,
+                                        "targetHeight": 1080
+                                    },
+                                    "isPic": false,
+                                    "staticNode": {
+                                        "time": 0.0,
+                                        "duration": 0.0,
+                                        "posX": 0.5,
+                                        "posY": 0.5,
+                                        "sizeX": 1.0,
+                                        "sizeY": 1.0,
+                                        "ratioMode": 10,
+                                        "angle": 0.0,
+                                        "smoothness": true,
+                                        "smoothType": 0,
+                                        "pod": 0.0
+                                    },
+                                    "dynamicNodes": []
+                                },
+                                "BaseTransform": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": true,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "angle": 0,
+                                    "vFlip": true
+                                },
+                                "ChromaKey": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "red": 0,
+                                    "green": 255,
+                                    "blue": 0,
+                                    "CHROMAKEY_TOLERANCE": 26,
+                                    "CHROMAKEY_SMOOTHNESS": 23,
+                                    "CHROMAKEY_EDGE_THICKNESS": 0,
+                                    "CHROMAKEY_EDGE_FEATHER": 0
+                                },
+                                "VideoLUT": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "LutName": ""
+                                },
+                                "ColorEditor": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "COLOR_TEMPERATURE": 0.0,
+                                    "COLOR_TINT": 0.0,
+                                    "COLOR_EXPOSURE": 0.0,
+                                    "COLOR_BRIGHTNESS": 0.0,
+                                    "COLOR_CONTRAST": 0.0,
+                                    "COLOR_SATURATION": 0.0,
+                                    "COLOR_VIBRANCE": 0.0,
+                                    "COLOR_HIGHLIGHTS": 0.0,
+                                    "COLOR_SHADOWS": 0.0,
+                                    "COLOR_WHITES": 0.0,
+                                    "COLOR_BLACKS": 0.0,
+                                    "HSL_RED": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_ORANGE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_YELLOW": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_GREEN": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_CYAN": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_BLUE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_PURPLE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    }
+                                },
+                                "Sharpen": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "amount": 500,
+                                    "radius": 2,
+                                    "threshold": 0
+                                },
+                                "Denoise": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "enableDenoise": false,
+                                    "deviation": 5.0,
+                                    "coefficient": 2.0,
+                                    "edgeThreshold": 0.3,
+                                    "enableAutoLevel": false,
+                                    "autoLevelK1": 0.5
+                                },
+                                "VignetteEditor": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "VIGNETTE_AMOUNT": 0,
+                                    "VIGNETTE_SIZE": 100,
+                                    "VIGNETTE_ROUNDNESS": 0,
+                                    "VIGNETTE_FEATHER": 50,
+                                    "VIGNETTE_INNER_LIGHT": 0
+                                },
+                                "VideoTransformer": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": true,
+                                        "fileTotalDuration": 405.833,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 405.833,
+                                        "blockDuration": 300.61703703703707
+                                    },
+                                    "rectData": {
+                                        "version": 0,
+                                        "srcWidth": 1920,
+                                        "srcHeight": 1080,
+                                        "targetWidth": 2560,
+                                        "targetHeight": 1440,
+                                        "centerPosX": 0.5,
+                                        "centerPosY": 0.5,
+                                        "sizeX": 1.0,
+                                        "sizeY": 1.0,
+                                        "angle": 0.0
+                                    },
+                                    "overlay": false,
+                                    "fadeInDuration": 1.0,
+                                    "fadeOutDuration": 1.0,
+                                    "fadeInDirect": 255,
+                                    "fadeOutDirect": 255,
+                                    "baseInfoInited": true
+                                },
+                                "Compositing": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 405.833,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 405.833,
+                                        "blockDuration": 300.61703703703707
+                                    },
+                                    "mode": 0,
+                                    "opacity": 1.0,
+                                    "fadeInDuration": 1.0,
+                                    "fadeOutDuration": 1.0,
+                                    "fadeInEnabeld": false,
+                                    "fadeOutEnabled": false
+                                }
+                            },
+                            "AudioAttribute": {
+                                "version": 0,
+                                "mute": false,
+                                "fadeInDuration": 0.0,
+                                "fadeOutDuration": 0.0,
+                                "multiple": 3.0,
+                                "pitch": 1.0,
+                                "pitchType": 1
+                            },
+                            "SpeedAttribute": {
+                                "version": 0,
+                                "reversePlay": false,
+                                "Speed": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "fileTotalDuration": 405.833,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 405.833,
+                                        "handledTotalDuration": 300.61703703703707,
+                                        "handledCuttedStart": 0.0,
+                                        "handledCuttedDuration": 300.61703703703707
+                                    },
+                                    "curve": "TmM0AQIAAAAAAAAAJMUYQQAAAAACAAAABwAAAP////8AAPBB/X8AAAAAAAAAAAAAaGZmZmZm1j8AAAAAAADwPwAAAAAAAAAAAAAAAGsbBEgAAABgbYMAQWhmZmZmZtY/AAAAUG2DEEFoZmZmZmbWPwAAAAAAAAAAaGZmZmZm1j8AAAAAJMUYQWhmZmZmZtY/AQAAAAAAAAAAAAAAJMUYQWhmZmZmZtY/AAAAAAAA8D8AAAAAAAAAAGsbBEgAAAAAAAAA0L0ZAEEAAAAAAAAAAAAAADD4DQVBAAAAAAAAAAAAAAAAJMX4QAAAAAAAAAAAAAAAACTFCEEAAAAAAAAAAAEAAAAAAAAA"
+                                },
+                                "extraSpeed": 1.0,
+                                "audioSpeedRate": false
+                            }
+                        }
+                    }
+                ],
+                "tstart": 0.0,
+                "tduration": 1.7976931348623157e308,
+                "context": 300617.037037037,
+                "opacity": 100,
+                "mute": false
+            },
+            {
+                "title": "Overlay Track",
+                "type": "OverlayTrack",
+                "status": 0,
+                "subitems": [
+                    {
+                        "title": "with",
+                        "type": "ImageFileBlock",
+                        "background": 4231162879,
+                        "foreground": 1216461823,
+                        "status": 0,
+                        "uuid": "{959C0E71-1A22-4C20-84EA-8F559526D1F9}",
+                        "tstart": 284133.3333333334,
+                        "tduration": 5000.0,
+                        "restype": "MediaFileResource",
+                        "resid": "{31539E99-16E3-48A9-8533-420C36A5AC15}",
+                        "attribute": {
+                            "version": 0,
+                            "type": 0,
+                            "videoIndex": 0,
+                            "audioIndex": -1,
+                            "videoEnabled": true,
+                            "audioEnabled": false,
+                            "VideoAttribute": {
+                                "version": 0,
+                                "streamIndex": 0,
+                                "trackDuration": 5.0,
+                                "deinterlace": false,
+                                "baseInfoInited": true,
+                                "LensCorrection": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "valid": false,
+                                    "focalPosX": 0.5,
+                                    "focalPosY": 0.5,
+                                    "hDeg": 118.2,
+                                    "vDeg": 69.5,
+                                    "dDeg": 133.6,
+                                    "k2": 0.022,
+                                    "cameraID": "custom",
+                                    "fovID": "custom"
+                                },
+                                "VideoCropper": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 5.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 5.0,
+                                        "blockDuration": 5.0
+                                    },
+                                    "rectData": {
+                                        "version": 0,
+                                        "srcWidth": 1037,
+                                        "srcHeight": 951,
+                                        "targetWidth": 1037,
+                                        "targetHeight": 951
+                                    },
+                                    "isPic": true,
+                                    "staticNode": {
+                                        "time": 0.0,
+                                        "duration": 0.0,
+                                        "posX": 0.5,
+                                        "posY": 0.5,
+                                        "sizeX": 1.0,
+                                        "sizeY": 1.0,
+                                        "ratioMode": 10,
+                                        "angle": 0.0,
+                                        "smoothness": true,
+                                        "smoothType": 0,
+                                        "pod": 0.0
+                                    },
+                                    "dynamicNodes": []
+                                },
+                                "BaseTransform": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": true,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "angle": 0,
+                                    "vFlip": true
+                                },
+                                "ChromaKey": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "red": 0,
+                                    "green": 255,
+                                    "blue": 0,
+                                    "CHROMAKEY_TOLERANCE": 26,
+                                    "CHROMAKEY_SMOOTHNESS": 23,
+                                    "CHROMAKEY_EDGE_THICKNESS": 0,
+                                    "CHROMAKEY_EDGE_FEATHER": 0
+                                },
+                                "VideoLUT": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "LutName": ""
+                                },
+                                "ColorEditor": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "COLOR_TEMPERATURE": 0.0,
+                                    "COLOR_TINT": 0.0,
+                                    "COLOR_EXPOSURE": 0.0,
+                                    "COLOR_BRIGHTNESS": 0.0,
+                                    "COLOR_CONTRAST": 0.0,
+                                    "COLOR_SATURATION": 0.0,
+                                    "COLOR_VIBRANCE": 0.0,
+                                    "COLOR_HIGHLIGHTS": 0.0,
+                                    "COLOR_SHADOWS": 0.0,
+                                    "COLOR_WHITES": 0.0,
+                                    "COLOR_BLACKS": 0.0,
+                                    "HSL_RED": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_ORANGE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_YELLOW": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_GREEN": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_CYAN": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_BLUE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_PURPLE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    }
+                                },
+                                "Sharpen": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "amount": 500,
+                                    "radius": 2,
+                                    "threshold": 0
+                                },
+                                "Denoise": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "enableDenoise": false,
+                                    "deviation": 5.0,
+                                    "coefficient": 2.0,
+                                    "edgeThreshold": 0.3,
+                                    "enableAutoLevel": false,
+                                    "autoLevelK1": 0.5
+                                },
+                                "VignetteEditor": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "VIGNETTE_AMOUNT": 0,
+                                    "VIGNETTE_SIZE": 100,
+                                    "VIGNETTE_ROUNDNESS": 0,
+                                    "VIGNETTE_FEATHER": 50,
+                                    "VIGNETTE_INNER_LIGHT": 0
+                                },
+                                "VideoTransformer": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": true,
+                                        "fileTotalDuration": 5.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 5.0,
+                                        "blockDuration": 5.0
+                                    },
+                                    "rectData": {
+                                        "version": 0,
+                                        "srcWidth": 1037,
+                                        "srcHeight": 951,
+                                        "targetWidth": 2560,
+                                        "targetHeight": 1440,
+                                        "centerPosX": 0.33365225179462396,
+                                        "centerPosY": 0.3972513265827375,
+                                        "sizeX": 0.4873215908657988,
+                                        "sizeY": 0.794502653165475,
+                                        "angle": 0.0
+                                    },
+                                    "overlay": true,
+                                    "fadeInDuration": 1.0,
+                                    "fadeOutDuration": 1.0,
+                                    "fadeInDirect": 255,
+                                    "fadeOutDirect": 255,
+                                    "baseInfoInited": true
+                                },
+                                "Compositing": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 5.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 5.0,
+                                        "blockDuration": 5.0
+                                    },
+                                    "mode": 0,
+                                    "opacity": 1.0,
+                                    "fadeInDuration": 1.0,
+                                    "fadeOutDuration": 1.0,
+                                    "fadeInEnabeld": false,
+                                    "fadeOutEnabled": false
+                                }
+                            },
+                            "AudioAttribute": null,
+                            "SpeedAttribute": {
+                                "version": 0,
+                                "reversePlay": false,
+                                "Speed": {
+                                    "version": 0,
+                                    "fileTotalDuration": 5.0,
+                                    "fileCuttedStart": 0.0,
+                                    "fileCuttedDuration": 5.0,
+                                    "handledTotalDuration": 5.0,
+                                    "handledCuttedStart": 0.0,
+                                    "handledCuttedDuration": 5.0
+                                },
+                                "extraSpeed": 1.0,
+                                "audioSpeedRate": false
+                            }
+                        }
+                    },
+                    {
+                        "title": "without",
+                        "type": "ImageFileBlock",
+                        "background": 3606867199,
+                        "foreground": 1216461823,
+                        "status": 0,
+                        "uuid": "{3A3853FD-5D8D-446A-BA30-2AEE5DBA0C7F}",
+                        "tstart": 82133.0,
+                        "tduration": 5000.0,
+                        "restype": "MediaFileResource",
+                        "resid": "{1043C69B-63F9-4613-8F16-9A4A7CD14B7A}",
+                        "attribute": {
+                            "version": 0,
+                            "type": 0,
+                            "videoIndex": 0,
+                            "audioIndex": -1,
+                            "videoEnabled": true,
+                            "audioEnabled": false,
+                            "VideoAttribute": {
+                                "version": 0,
+                                "streamIndex": 0,
+                                "trackDuration": 5.0,
+                                "deinterlace": false,
+                                "baseInfoInited": true,
+                                "LensCorrection": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "valid": false,
+                                    "focalPosX": 0.5,
+                                    "focalPosY": 0.5,
+                                    "hDeg": 118.2,
+                                    "vDeg": 69.5,
+                                    "dDeg": 133.6,
+                                    "k2": 0.022,
+                                    "cameraID": "custom",
+                                    "fovID": "custom"
+                                },
+                                "VideoCropper": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 5.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 5.0,
+                                        "blockDuration": 5.0
+                                    },
+                                    "rectData": {
+                                        "version": 0,
+                                        "srcWidth": 1037,
+                                        "srcHeight": 931,
+                                        "targetWidth": 1037,
+                                        "targetHeight": 931
+                                    },
+                                    "isPic": true,
+                                    "staticNode": {
+                                        "time": 0.0,
+                                        "duration": 0.0,
+                                        "posX": 0.5,
+                                        "posY": 0.5,
+                                        "sizeX": 1.0,
+                                        "sizeY": 1.0,
+                                        "ratioMode": 10,
+                                        "angle": 0.0,
+                                        "smoothness": true,
+                                        "smoothType": 0,
+                                        "pod": 0.0
+                                    },
+                                    "dynamicNodes": []
+                                },
+                                "BaseTransform": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": true,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "angle": 0,
+                                    "vFlip": true
+                                },
+                                "ChromaKey": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "red": 0,
+                                    "green": 255,
+                                    "blue": 0,
+                                    "CHROMAKEY_TOLERANCE": 26,
+                                    "CHROMAKEY_SMOOTHNESS": 23,
+                                    "CHROMAKEY_EDGE_THICKNESS": 0,
+                                    "CHROMAKEY_EDGE_FEATHER": 0
+                                },
+                                "VideoLUT": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "LutName": ""
+                                },
+                                "ColorEditor": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "COLOR_TEMPERATURE": 0.0,
+                                    "COLOR_TINT": 0.0,
+                                    "COLOR_EXPOSURE": 0.0,
+                                    "COLOR_BRIGHTNESS": 0.0,
+                                    "COLOR_CONTRAST": 0.0,
+                                    "COLOR_SATURATION": 0.0,
+                                    "COLOR_VIBRANCE": 0.0,
+                                    "COLOR_HIGHLIGHTS": 0.0,
+                                    "COLOR_SHADOWS": 0.0,
+                                    "COLOR_WHITES": 0.0,
+                                    "COLOR_BLACKS": 0.0,
+                                    "HSL_RED": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_ORANGE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_YELLOW": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_GREEN": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_CYAN": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_BLUE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_PURPLE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    }
+                                },
+                                "Sharpen": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "amount": 500,
+                                    "radius": 2,
+                                    "threshold": 0
+                                },
+                                "Denoise": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "enableDenoise": false,
+                                    "deviation": 5.0,
+                                    "coefficient": 2.0,
+                                    "edgeThreshold": 0.3,
+                                    "enableAutoLevel": false,
+                                    "autoLevelK1": 0.5
+                                },
+                                "VignetteEditor": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "VIGNETTE_AMOUNT": 0,
+                                    "VIGNETTE_SIZE": 100,
+                                    "VIGNETTE_ROUNDNESS": 0,
+                                    "VIGNETTE_FEATHER": 50,
+                                    "VIGNETTE_INNER_LIGHT": 0
+                                },
+                                "VideoTransformer": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": true,
+                                        "fileTotalDuration": 5.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 5.0,
+                                        "blockDuration": 5.0
+                                    },
+                                    "rectData": {
+                                        "version": 0,
+                                        "srcWidth": 1037,
+                                        "srcHeight": 931,
+                                        "targetWidth": 2560,
+                                        "targetHeight": 1440,
+                                        "centerPosX": 0.4350153284998209,
+                                        "centerPosY": 0.37500000189381996,
+                                        "sizeX": 0.4433026763336914,
+                                        "sizeY": 0.7500000037876399,
+                                        "angle": 0.0
+                                    },
+                                    "overlay": true,
+                                    "fadeInDuration": 1.0,
+                                    "fadeOutDuration": 1.0,
+                                    "fadeInDirect": 255,
+                                    "fadeOutDirect": 255,
+                                    "baseInfoInited": true
+                                },
+                                "Compositing": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 5.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 5.0,
+                                        "blockDuration": 5.0
+                                    },
+                                    "mode": 0,
+                                    "opacity": 1.0,
+                                    "fadeInDuration": 1.0,
+                                    "fadeOutDuration": 1.0,
+                                    "fadeInEnabeld": false,
+                                    "fadeOutEnabled": false
+                                }
+                            },
+                            "AudioAttribute": null,
+                            "SpeedAttribute": {
+                                "version": 0,
+                                "reversePlay": false,
+                                "Speed": {
+                                    "version": 0,
+                                    "fileTotalDuration": 5.0,
+                                    "fileCuttedStart": 0.0,
+                                    "fileCuttedDuration": 5.0,
+                                    "handledTotalDuration": 5.0,
+                                    "handledCuttedStart": 0.0,
+                                    "handledCuttedDuration": 5.0
+                                },
+                                "extraSpeed": 1.0,
+                                "audioSpeedRate": false
+                            }
+                        }
+                    }
+                ],
+                "tstart": 0.0,
+                "tduration": 1.7976931348623157e308,
+                "context": 289133.3333333334,
+                "opacity": 100,
+                "mute": false
+            },
+            {
+                "title": "Audio Track",
+                "type": "AudioTrack",
+                "status": 1,
+                "subitems": [
+                    {
+                        "title": "Red Velvet (레드벨벳) - Psycho Piano Cover (Melancholy Ver.)",
+                        "type": "MediaFileBlock",
+                        "background": 4229334527,
+                        "foreground": 1216461823,
+                        "status": 0,
+                        "uuid": "{CC4D88DF-DE08-4431-B595-6D5996221F20}",
+                        "tstart": 0.0,
+                        "tduration": 247455.0566893424,
+                        "restype": "MediaFileResource",
+                        "resid": "258E8ABABFAB1F39BD50B0433DEBA606",
+                        "attribute": {
+                            "version": 0,
+                            "type": 3,
+                            "videoIndex": 0,
+                            "audioIndex": 1,
+                            "videoEnabled": false,
+                            "audioEnabled": true,
+                            "VideoAttribute": {
+                                "version": 0,
+                                "streamIndex": 0,
+                                "trackDuration": 247.4550566893424,
+                                "deinterlace": false,
+                                "baseInfoInited": false,
+                                "LensCorrection": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "valid": false,
+                                    "focalPosX": 0.5,
+                                    "focalPosY": 0.5,
+                                    "hDeg": 118.2,
+                                    "vDeg": 69.5,
+                                    "dDeg": 133.6,
+                                    "k2": 0.022,
+                                    "cameraID": "custom",
+                                    "fovID": "custom"
+                                },
+                                "VideoCropper": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 247.4550566893424,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 247.4550566893424,
+                                        "blockDuration": 247.4550566893424
+                                    },
+                                    "rectData": {
+                                        "version": 0,
+                                        "srcWidth": 1920,
+                                        "srcHeight": 1080,
+                                        "targetWidth": 1920,
+                                        "targetHeight": 1080
+                                    },
+                                    "isPic": false,
+                                    "staticNode": {
+                                        "time": 0.0,
+                                        "duration": 0.0,
+                                        "posX": 0.5,
+                                        "posY": 0.5,
+                                        "sizeX": 1.0,
+                                        "sizeY": 1.0,
+                                        "ratioMode": 10,
+                                        "angle": 0.0,
+                                        "smoothness": true,
+                                        "smoothType": 0,
+                                        "pod": 0.0
+                                    },
+                                    "dynamicNodes": []
+                                },
+                                "BaseTransform": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "angle": 0,
+                                    "vFlip": false
+                                },
+                                "ChromaKey": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "red": 0,
+                                    "green": 255,
+                                    "blue": 0,
+                                    "CHROMAKEY_TOLERANCE": 26,
+                                    "CHROMAKEY_SMOOTHNESS": 23,
+                                    "CHROMAKEY_EDGE_THICKNESS": 0,
+                                    "CHROMAKEY_EDGE_FEATHER": 0
+                                },
+                                "VideoLUT": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "LutName": ""
+                                },
+                                "ColorEditor": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "COLOR_TEMPERATURE": 0.0,
+                                    "COLOR_TINT": 0.0,
+                                    "COLOR_EXPOSURE": 0.0,
+                                    "COLOR_BRIGHTNESS": 0.0,
+                                    "COLOR_CONTRAST": 0.0,
+                                    "COLOR_SATURATION": 0.0,
+                                    "COLOR_VIBRANCE": 0.0,
+                                    "COLOR_HIGHLIGHTS": 0.0,
+                                    "COLOR_SHADOWS": 0.0,
+                                    "COLOR_WHITES": 0.0,
+                                    "COLOR_BLACKS": 0.0,
+                                    "HSL_RED": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_ORANGE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_YELLOW": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_GREEN": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_CYAN": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_BLUE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_PURPLE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    }
+                                },
+                                "Sharpen": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "amount": 500,
+                                    "radius": 2,
+                                    "threshold": 0
+                                },
+                                "Denoise": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "enableDenoise": false,
+                                    "deviation": 5.0,
+                                    "coefficient": 2.0,
+                                    "edgeThreshold": 0.3,
+                                    "enableAutoLevel": false,
+                                    "autoLevelK1": 0.5
+                                },
+                                "VignetteEditor": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "VIGNETTE_AMOUNT": 0,
+                                    "VIGNETTE_SIZE": 100,
+                                    "VIGNETTE_ROUNDNESS": 0,
+                                    "VIGNETTE_FEATHER": 50,
+                                    "VIGNETTE_INNER_LIGHT": 0
+                                },
+                                "VideoTransformer": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 247.4550566893424,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 247.4550566893424,
+                                        "blockDuration": 247.4550566893424
+                                    },
+                                    "rectData": {
+                                        "version": 0,
+                                        "srcWidth": 1920,
+                                        "srcHeight": 1080,
+                                        "targetWidth": 1920,
+                                        "targetHeight": 1080,
+                                        "centerPosX": 0.5,
+                                        "centerPosY": 0.5,
+                                        "sizeX": 1.0,
+                                        "sizeY": 1.0,
+                                        "angle": 0.0
+                                    },
+                                    "overlay": false,
+                                    "fadeInDuration": 1.0,
+                                    "fadeOutDuration": 1.0,
+                                    "fadeInDirect": 255,
+                                    "fadeOutDirect": 255,
+                                    "baseInfoInited": false
+                                },
+                                "Compositing": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 247.4550566893424,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 247.4550566893424,
+                                        "blockDuration": 247.4550566893424
+                                    },
+                                    "mode": 0,
+                                    "opacity": 1.0,
+                                    "fadeInDuration": 1.0,
+                                    "fadeOutDuration": 1.0,
+                                    "fadeInEnabeld": false,
+                                    "fadeOutEnabled": false
+                                }
+                            },
+                            "AudioAttribute": {
+                                "version": 0,
+                                "mute": false,
+                                "fadeInDuration": 0.0,
+                                "fadeOutDuration": 0.0,
+                                "multiple": 0.10000000149011612,
+                                "pitch": 1.0,
+                                "pitchType": 1
+                            },
+                            "SpeedAttribute": {
+                                "version": 0,
+                                "reversePlay": false,
+                                "Speed": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "fileTotalDuration": 247.4550566893424,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 247.4550566893424,
+                                        "handledTotalDuration": 247.4550566893424,
+                                        "handledCuttedStart": 0.0,
+                                        "handledCuttedDuration": 247.4550566893424
+                                    },
+                                    "curve": "TmM0AQUAAAAAAAAA+DQOQQAAAAAFAAAABwAAAP////+fwu9B/X8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAAAAAAAAAIAaoUYAAAAAUCPUQAAAAAAAAAAAAAAAABQl5UAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+DTuQAAAAAAAAAAAAQAAAAAAAAAAAAAA+DTuQAAAAAAAAAAAAAAAAAAA8D8AAAAAAAAAAED+kEZA/pBGAAAAAG6i80AAAAAAAAAAAAAAAAAGrflAAAAAAAAAAAAAAAAA+DTuQAAAAAAAAAAAAAAAAPg0/kAAAAAAAAAAAAEAAAAAAAAAAAAAAPg0/kAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAABA/pBGQP6QRgAAAAB1XgFBAAAAAAAAAAAAAAAAwWMEQQAAAAAAAAAAAAAAAPg0/kAAAAAAAAAAAAAAAAC6pwZBAAAAAAAAAAABAAAAAAAAAAAAAAC6pwZBAAAAAAAAAAAAAAAAAADwPwAAAAAAAAAAQP6QRkD+kEYAAAAAs+sIQQAAAAAAAAAAAAAAAI6wC0EAAAAAAAAAAAAAAAC6pwZBAAAAAAAAAAAAAAAA+DQOQQAAAAAAAAAAAQAAAAAAAAAAAAAA+DQOQQAAAAAAAAAAAAAAAAAA8D8AAAAAAAAAAIAaoUYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA"
+                                },
+                                "extraSpeed": 1.0,
+                                "audioSpeedRate": false
+                            }
+                        }
+                    },
+                    {
+                        "title": "[FREE] _ukulele_ Joji x Trippie Redd Type Beat - _missing u_",
+                        "type": "MediaFileBlock",
+                        "background": 133999359,
+                        "foreground": 1216461823,
+                        "status": 1,
+                        "uuid": "{A03BA1E1-1ACE-4167-A965-6C3CDCACC999}",
+                        "tstart": 247455.0566893424,
+                        "tduration": 55296.60997732428,
+                        "restype": "MediaFileResource",
+                        "resid": "FB96D5B8BB427268F27D208DE37A18EC",
+                        "attribute": {
+                            "version": 0,
+                            "type": 3,
+                            "videoIndex": 0,
+                            "audioIndex": 1,
+                            "videoEnabled": false,
+                            "audioEnabled": true,
+                            "VideoAttribute": {
+                                "version": 0,
+                                "streamIndex": 0,
+                                "trackDuration": 175.96081632653063,
+                                "deinterlace": false,
+                                "baseInfoInited": false,
+                                "LensCorrection": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "valid": false,
+                                    "focalPosX": 0.5,
+                                    "focalPosY": 0.5,
+                                    "hDeg": 118.2,
+                                    "vDeg": 69.5,
+                                    "dDeg": 133.6,
+                                    "k2": 0.022,
+                                    "cameraID": "custom",
+                                    "fovID": "custom"
+                                },
+                                "VideoCropper": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 175.96081632653063,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 55.29660997732428,
+                                        "blockDuration": 55.29660997732428
+                                    },
+                                    "rectData": {
+                                        "version": 0,
+                                        "srcWidth": 1920,
+                                        "srcHeight": 1080,
+                                        "targetWidth": 1920,
+                                        "targetHeight": 1080
+                                    },
+                                    "isPic": false,
+                                    "staticNode": {
+                                        "time": 0.0,
+                                        "duration": 0.0,
+                                        "posX": 0.5,
+                                        "posY": 0.5,
+                                        "sizeX": 1.0,
+                                        "sizeY": 1.0,
+                                        "ratioMode": 10,
+                                        "angle": 0.0,
+                                        "smoothness": true,
+                                        "smoothType": 0,
+                                        "pod": 0.0
+                                    },
+                                    "dynamicNodes": []
+                                },
+                                "BaseTransform": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "angle": 0,
+                                    "vFlip": false
+                                },
+                                "ChromaKey": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "red": 0,
+                                    "green": 255,
+                                    "blue": 0,
+                                    "CHROMAKEY_TOLERANCE": 26,
+                                    "CHROMAKEY_SMOOTHNESS": 23,
+                                    "CHROMAKEY_EDGE_THICKNESS": 0,
+                                    "CHROMAKEY_EDGE_FEATHER": 0
+                                },
+                                "VideoLUT": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "LutName": ""
+                                },
+                                "ColorEditor": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "COLOR_TEMPERATURE": 0.0,
+                                    "COLOR_TINT": 0.0,
+                                    "COLOR_EXPOSURE": 0.0,
+                                    "COLOR_BRIGHTNESS": 0.0,
+                                    "COLOR_CONTRAST": 0.0,
+                                    "COLOR_SATURATION": 0.0,
+                                    "COLOR_VIBRANCE": 0.0,
+                                    "COLOR_HIGHLIGHTS": 0.0,
+                                    "COLOR_SHADOWS": 0.0,
+                                    "COLOR_WHITES": 0.0,
+                                    "COLOR_BLACKS": 0.0,
+                                    "HSL_RED": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_ORANGE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_YELLOW": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_GREEN": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_CYAN": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_BLUE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    },
+                                    "HSL_PURPLE": {
+                                        "HSL_HUE": 0,
+                                        "HSL_SAT": 0,
+                                        "HSL_LUM": 0
+                                    }
+                                },
+                                "Sharpen": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "amount": 500,
+                                    "radius": 2,
+                                    "threshold": 0
+                                },
+                                "Denoise": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "enableDenoise": false,
+                                    "deviation": 5.0,
+                                    "coefficient": 2.0,
+                                    "edgeThreshold": 0.3,
+                                    "enableAutoLevel": false,
+                                    "autoLevelK1": 0.5
+                                },
+                                "VignetteEditor": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 0.0,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 0.0,
+                                        "blockDuration": 0.0
+                                    },
+                                    "VIGNETTE_AMOUNT": 0,
+                                    "VIGNETTE_SIZE": 100,
+                                    "VIGNETTE_ROUNDNESS": 0,
+                                    "VIGNETTE_FEATHER": 50,
+                                    "VIGNETTE_INNER_LIGHT": 0
+                                },
+                                "VideoTransformer": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 175.96081632653063,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 55.29660997732428,
+                                        "blockDuration": 55.29660997732428
+                                    },
+                                    "rectData": {
+                                        "version": 0,
+                                        "srcWidth": 1920,
+                                        "srcHeight": 1080,
+                                        "targetWidth": 1920,
+                                        "targetHeight": 1080,
+                                        "centerPosX": 0.5,
+                                        "centerPosY": 0.5,
+                                        "sizeX": 1.0,
+                                        "sizeY": 1.0,
+                                        "angle": 0.0
+                                    },
+                                    "overlay": false,
+                                    "fadeInDuration": 1.0,
+                                    "fadeOutDuration": 0.0,
+                                    "fadeInDirect": 255,
+                                    "fadeOutDirect": 255,
+                                    "baseInfoInited": false
+                                },
+                                "Compositing": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "valid": false,
+                                        "fileTotalDuration": 175.96081632653063,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 55.29660997732428,
+                                        "blockDuration": 55.29660997732428
+                                    },
+                                    "mode": 0,
+                                    "opacity": 1.0,
+                                    "fadeInDuration": 1.0,
+                                    "fadeOutDuration": 0.0,
+                                    "fadeInEnabeld": false,
+                                    "fadeOutEnabled": false
+                                }
+                            },
+                            "AudioAttribute": {
+                                "version": 0,
+                                "mute": false,
+                                "fadeInDuration": 0.0,
+                                "fadeOutDuration": 2.0000000000000006,
+                                "multiple": 0.10000000149011612,
+                                "pitch": 1.0,
+                                "pitchType": 1
+                            },
+                            "SpeedAttribute": {
+                                "version": 0,
+                                "reversePlay": false,
+                                "Speed": {
+                                    "version": 0,
+                                    "baseData": {
+                                        "version": 0,
+                                        "fileTotalDuration": 175.96081632653063,
+                                        "fileCuttedStart": 0.0,
+                                        "fileCuttedDuration": 55.29660997732428,
+                                        "handledTotalDuration": 175.96081632653063,
+                                        "handledCuttedStart": 0.0,
+                                        "handledCuttedDuration": 55.29660997732428
+                                    },
+                                    "curve": "TmM0AQQAAAAAAAAAwHoFQQAAAAADAAAABwAAAP////8AAMBB/X8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAAAAAAAAAFUdZUYAAACgqqPMQAAAAAAAAAAAAAAA8D8S3kAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwHrlQAAAAAAAAAAAAQAAAAAAAAAAAAAAwHrlQAAAAAAAAAAAAAAAAAAA8D8AAAAAAAAAAAE0TkamhVtFAAAATMsx50AAAAAAAAAAAIJ3687JD+lAAAAAAAAAAAAAAAAAwHrlQAAAAAAAAAAArpfg8///6kAAAAAAAAAAAAEAAAAAAAAArpfg8///6kAAAAAAAAAAAKJm5wcAAPA/AAAAAAAAAAASG3hFAAAAAK6X4PP//+pAAAAAAAAAAAAAAABY1ZEAQQAAAAAAAAAArpfg8///6kAAAAAAAAAAAAAAAADAegVBAAAAAAAAAAABAAAAAAAAAAAAAADAegVBAAAAAAAAAAAAAAAAAADwPwAAAAAAAAAAVR0dRwAAAAAAAAAEkLP4QAAAAAAAAAAAAAAA/E///EAAAAAAAAAAAAAAAADAevVAAAAAAAAAAAAAAAAAEBwAQQAAAAAAAAAAAQEAAAAAAAA="
+                                },
+                                "extraSpeed": 1.0,
+                                "audioSpeedRate": false
+                            }
+                        }
+                    }
+                ],
+                "tstart": 0.0,
+                "tduration": 1.7976931348623157e308,
+                "context": 302751.6666666667,
+                "opacity": 100,
+                "mute": false
+            },
+            {
+                "title": "Subtitle Track",
+                "type": "SubtitleTrack",
+                "status": 16,
+                "subitems": [
+                    {
+                        "title": "Text",
+                        "type": "TextEffectBlock",
+                        "background": 771534335,
+                        "foreground": 1216461823,
+                        "status": 0,
+                        "uuid": "{9ACE621D-0FA9-4631-9A0E-C2A80F684437}",
+                        "tstart": 289133.3333333334,
+                        "tduration": 11483.70370370365,
+                        "restype": "TextEffectResource",
+                        "resid": "text_001",
+                        "attribute": {
+                            "type": "editor",
+                            "fragments": {
+                                "scale2": 1.0,
+                                "chars": [
+                                    {
+                                        "char": 84,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 72,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 65,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 78,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 75,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 32,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 89,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 79,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 85,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 33,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    }
+                                ],
+                                "lineSpace": 2,
+                                "charSpace": 0,
+                                "align": 0,
+                                "angle": 0.0,
+                                "x": 0.33500003814697268,
+                                "y": 0.3345238268375397,
+                                "w": 0.4000000059604645,
+                                "h": 0.20000000298023225,
+                                "inFlter": 0,
+                                "inFlterTime": 0,
+                                "outFlter": 9,
+                                "outFlterTime": 0
+                            },
+                            "leftTimestamp": 0.0,
+                            "rightTimestamp": 11.48370370370365
+                        }
+                    },
+                    {
+                        "title": "Text",
+                        "type": "TextEffectBlock",
+                        "background": 771534335,
+                        "foreground": 1216461823,
+                        "status": 0,
+                        "uuid": "{32ED5B3F-481E-42F4-B350-4037F47C4DB3}",
+                        "tstart": 272649.6296296297,
+                        "tduration": 6072.037037036965,
+                        "restype": "TextEffectResource",
+                        "resid": "text_001",
+                        "attribute": {
+                            "type": "editor",
+                            "fragments": {
+                                "scale2": 0.5816777944564819,
+                                "chars": [
+                                    {
+                                        "char": 42,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 42,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 42,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 115,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 117,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 112,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 112,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 111,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 115,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 101,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 100,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 32,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 116,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 111,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 32,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 10,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 115,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 97,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 121,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 58,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 10,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 34,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 90,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 101,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 98,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 114,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 97,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 44,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 32,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 74,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 111,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 115,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 104,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 117,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 97,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 10,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 32,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 97,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 110,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 100,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 32,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 116,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 104,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 101,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 110,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 32,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 10,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 65,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 112,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 112,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 108,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 101,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    },
+                                    {
+                                        "char": 34,
+                                        "ffn": "BerlinSansFB-Reg",
+                                        "fsize": 148,
+                                        "fcolor": 4294967038,
+                                        "bs": 0,
+                                        "bc": 4278190080,
+                                        "bb": 5,
+                                        "st": 7,
+                                        "ss": 20,
+                                        "sc": 4278207400,
+                                        "sb": 3
+                                    }
+                                ],
+                                "lineSpace": 2,
+                                "charSpace": 0,
+                                "align": 2,
+                                "angle": 0.0,
+                                "x": 0.6430022716522217,
+                                "y": 0.26539531350135805,
+                                "w": 0.4000000059604645,
+                                "h": 0.47202426195144656,
+                                "inFlter": 0,
+                                "inFlterTime": 0,
+                                "outFlter": 9,
+                                "outFlterTime": 0
+                            },
+                            "leftTimestamp": 0.0,
+                            "rightTimestamp": 6.0720370370369649
+                        }
+                    }
+                ],
+                "tstart": 0.0,
+                "tduration": 1.7976931348623157e308,
+                "context": 300617.037037037,
+                "opacity": 100,
+                "mute": false
+            }
+        ],
+        "tstart": 0.0,
+        "tduration": 1.7976931348623157e308,
+        "context": 302751.6666666667,
+        "connect": {}
+    },
+    "projinfo": {
+        "name": "202311-01-0",
+        "projectfile": "C:/Users/joshua/Downloads/202311-01-0/202311-01-0.vpd",
+        "savetime": {
+            "year": 2023,
+            "month": 11,
+            "day": 1,
+            "hour": 21,
+            "minute": 9,
+            "second": 46
+        },
+        "player": {
+            "version": 0,
+            "frameRateNum": 30,
+            "frameRateDen": 1,
+            "resolutionW": 2560,
+            "resolutionH": 1440,
+            "clearR": 0.0,
+            "clearG": 0.0,
+            "clearB": 0.0,
+            "clearA": 1.0,
+            "showRefline": true,
+            "lockRefline": false,
+            "refLines": [],
+            "volume": 1.0
+        }
+    },
+    "videolist": {
+        "title": "Video",
+        "type": "ResourceLists",
+        "status": 0,
+        "subitems": [
+            {
+                "title": "2023-11-01 20-30-24",
+                "type": "MediaFileResource",
+                "status": 0,
+                "uuid": "E7B8A0651C74D779140A4508FCFD261F",
+                "path": "C:/Users/joshua/Videos/2023-11-01 20-30-24.mkv",
+                "duration": 405.833
+            },
+            {
+                "title": "[FREE] _ukulele_ Joji x Trippie Redd Type Beat - _missing u_",
+                "type": "MediaFileResource",
+                "status": 1,
+                "uuid": "FB96D5B8BB427268F27D208DE37A18EC",
+                "path": "C:/Users/joshua/Downloads/[FREE] _ukulele_ Joji x Trippie Redd Type Beat - _missing u_.mp4",
+                "duration": 175.96081632653063
+            },
+            {
+                "title": "Red Velvet (레드벨벳) - Psycho Piano Cover (Melancholy Ver.)",
+                "type": "MediaFileResource",
+                "status": 0,
+                "uuid": "258E8ABABFAB1F39BD50B0433DEBA606",
+                "path": "C:/Users/joshua/Downloads/Red Velvet (레드벨벳) - Psycho Piano Cover (Melancholy Ver.).mp4",
+                "duration": 247.4550566893424
+            }
+        ]
+    },
+    "audiolist": {
+        "title": "Music",
+        "type": "ResourceLists",
+        "status": 0
+    },
+    "imagelist": {
+        "title": "Picture",
+        "type": "ResourceLists",
+        "status": 0,
+        "subitems": [
+            {
+                "title": "Downloads",
+                "type": "ResourceList",
+                "status": 0,
+                "subitems": [
+                    {
+                        "type": "link",
+                        "resid": "479EB176FEEC11A05A9DAD35809FD3FD",
+                        "uuid": "{1043C69B-63F9-4613-8F16-9A4A7CD14B7A}"
+                    },
+                    {
+                        "type": "link",
+                        "resid": "B7C9747EF9F24E8ACB5CC5988783052B",
+                        "uuid": "{31539E99-16E3-48A9-8533-420C36A5AC15}"
+                    }
+                ],
+                "orientation": 2
+            }
+        ],
+        "scapegoat": [
+            {
+                "title": "with",
+                "type": "MediaFileResource",
+                "status": 4096,
+                "uuid": "B7C9747EF9F24E8ACB5CC5988783052B",
+                "path": "C:/Users/joshua/Downloads/with.png",
+                "duration": 0.0
+            },
+            {
+                "title": "without",
+                "type": "MediaFileResource",
+                "status": 4096,
+                "uuid": "479EB176FEEC11A05A9DAD35809FD3FD",
+                "path": "C:/Users/joshua/Downloads/without.png",
+                "duration": 0.0
+            }
+        ]
+    },
+    "subtitlelist": {
+        "title": "Subtitle",
+        "type": "ResourceLists",
+        "status": 0
+    }
+}
